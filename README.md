@@ -1,7 +1,5 @@
 # A Simple Server with Python Flask
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balena-io-examples/balena-python-hello-world)
-
 This is a simple skeleton python server project that works on any of the [devices supported][devices-supported] by [balena][balena-link].
 
 This project serves up a welcome page on port `:80` of your balena device.
